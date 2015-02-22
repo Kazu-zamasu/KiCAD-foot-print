@@ -67,3 +67,12 @@ http://www.cosel.co.jp/jp/products/pdf/CMJ_TUHS.pdf
   
 VAF512-PowerSupply.kicad_mod:コーセルパワーサプライ AC/DC 5w 12v  
 https://www.cosel.co.jp/jp/products/pdf/SFJ_VAF.pdf  
+
+TI LM4030 V-Ref  
+
+Nichicon SMD HA-HS  
+
+Nichicon SMD CG  
+  
+RJ12 Moduler Jack  
+http://www.digikey.jp/product-search/ja?x=0&y=0&lang=ja&site=jp&KeyWords=AE10391  
