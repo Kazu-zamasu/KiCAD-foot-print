@@ -76,3 +76,9 @@ Nichicon SMD CG
   
 RJ12 Moduler Jack  
 http://www.digikey.jp/product-search/ja?x=0&y=0&lang=ja&site=jp&KeyWords=AE10391  
+  
+1SS355  
+http://www.digikey.jp/product-detail/ja/1SS355VMTE-17/1SS355VMTE-17CT-ND/3443692  
+  
+TA48M_NewPW-Mold  
+  
